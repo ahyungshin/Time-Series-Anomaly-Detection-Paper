@@ -3,6 +3,8 @@
 ## 2023
 - Unsupervised Model Selection for Time Series Anomaly Detection (ICLR 2023) [[paper](https://openreview.net/pdf?id=gOZ_pKANaPW)]
 - TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis (ICLR 2023) [[paper](https://openreview.net/pdf?id=ju_Uqw384Oq)] [[code](https://github.com/thuml/Time-Series-Library)]
+- Detecting Multivariate Time Series Anomalies with Zero Known Label (AAAI 2023) [[paper](https://arxiv.org/abs/2208.02108)]
+
 
 ## 2022
 - Towards a rigorous evaluation of time-series anomaly detection (AAAI 2022) [[paper](https://arxiv.org/pdf/2109.05257.pdf)]
